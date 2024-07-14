@@ -16,13 +16,11 @@ Installation
 To get a local copy up and running, follow these steps:
 
 Clone the repository:
-
 sh
 Copy code
 git clone https://github.com/yourusername/udemy-clone.git
 cd udemy-clone
 Install dependencies:
-
 sh
 Copy code
 # Install backend dependencies
@@ -36,7 +34,6 @@ Set up environment variables:
 Create a .env file in the backend directory and add your MongoDB URI, JWT secret, and any other necessary environment variables.
 
 Run the application:
-
 sh
 Copy code
 # Run the backend
@@ -53,4 +50,4 @@ License
 This project is licensed under the MIT License.
 
 Contact
-Kaleab Mureja - linkedin.com/in/kaleab-mureja-441008267 - kaleab-mureja
+Kaleab Mureja - LinkedIn : linkedin.com/in/kaleab-mureja-441008267 - GitHub : kaleab-mureja
