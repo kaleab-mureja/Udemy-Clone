@@ -1,4 +1,4 @@
-Udemy Clone
+#Udemy Clone
 This repository contains a clone of the Udemy website, built using the MERN stack (MongoDB, Express.js, React, Node.js). The frontend is developed with React and styled using Bootstrap, while the backend is powered by Node.js and Express.js, with MongoDB and Mongoose managing the database.
 
 Features
@@ -18,7 +18,7 @@ To get a local copy up and running, follow these steps:
 Clone the repository:
 sh
 Copy code
-git clone https://github.com/yourusername/udemy-clone.git
+git clone [https://github.com/yourusername/udemy-clone.git](https://github.com/kaleab-mureja/Udemy-Clone.git)
 cd udemy-clone
 Install dependencies:
 sh
