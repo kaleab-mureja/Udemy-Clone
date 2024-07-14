@@ -1,0 +1,56 @@
+.udemy-logo {
+  width: 100px;
+}
+#search-bar {
+  width: 100%;
+}
+.navbar-container {
+  padding-left: 20px;
+}
+.cart {
+  width: 20px;
+  padding: 0px;
+  margin: 0px;
+}
+
+@media (min-width: 575px) and (max-width: 680px) {
+  #search-bar {
+    display: none;
+  }
+  .navbar-container {
+    padding-left: 100px;
+  }
+}
+@media (min-width: 680px) and (max-width: 800px) {
+  .navbar-container {
+    padding-left: 50px;
+  }
+}
+@media (min-width: 800px) and (max-width: 1150px) {
+  #search-bar {
+    width: 250px;
+  }
+  .navbar-container {
+    padding-left: 100px;
+  }
+}
+@media (min-width:1150px) and (max-width: 1440px) {
+  #search-bar {
+    width: 450px;
+  }
+  .navbar-container {
+    padding-left: 150px;
+  }
+}
+@media (min-width: 1440px) {
+  #search-bar {
+    width: 600px;
+  }
+  .navbar-container {
+    padding-left: 200px;
+  }
+}
+.header-selector {
+  border-style:none;
+  border-radius:5px;
+}

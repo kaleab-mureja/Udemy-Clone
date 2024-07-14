@@ -1,0 +1,45 @@
+.signUp-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10vh;
+}
+.card-container {
+  border-radius: 2%;
+  border-style: none;
+}
+#username {
+  border-style: none;
+}
+#email {
+  border-style: none;
+}
+#password {
+  border-style: none;
+}
+.card-title {
+  margin: 20px;
+}
+.signUp-btn {
+  margin-left: 35%;
+  margin-bottom: 20px;
+  font-weight: 500;
+  background-color: purple;
+  color: white;
+}
+.signUp-btn:hover {
+  color: purple;
+  background-color: white;
+}
+
+.body-container {
+  padding-top: 50px;
+}
+.payment-filed{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.buying-btn {
+  margin-left:35%;
+}

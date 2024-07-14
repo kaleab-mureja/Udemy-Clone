@@ -1,0 +1,15 @@
+.footer-container{
+    background-color: purple;
+    margin-top:75px;
+    padding-bottom:20px;
+    padding-top:20px;
+    position:absolute;
+    margin-top:100px
+}
+.footer-container a {
+    color: white;
+    font-weight: 500;
+}
+.footer-udemy-logo{
+    width: 80px;
+}
