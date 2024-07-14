@@ -53,4 +53,4 @@ License
 This project is licensed under the MIT License.
 
 Contact
-Kaleab Mureja - LinkedIn - GitHub
+Kaleab Mureja - linkedin.com/in/kaleab-mureja-441008267 - kaleab-mureja
